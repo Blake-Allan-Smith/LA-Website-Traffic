@@ -19,9 +19,9 @@ The analysis is based on the LA website dataset containing over 8 million record
   - Tablet brings is significantly less traffic, but it's bounce rate is the lowest of the devices, which is ~5% lower than mobile.
 
 - Browser Insights
- - Chrome is the dominant favorite for browsers amongst users accessing the website. 
- - There was an extremely large spike in traffic in December 2017, which aligns directly with the large wildfires that were occurring in and around California during that time. This shows that the website was a main source of information for people at that time.
- - The website has seen a steady decline in traffic from 2017 to 2019, indicating a reason to investigate to attempt to find the factors behind this trend.
+  - Chrome is the dominant favorite for browsers amongst users accessing the website. 
+  - There was an extremely large spike in traffic in December 2017, which aligns directly with the large wildfires that were occurring in and around California during that time. This shows that the website was a main source of information for people at that time.
+  - The website has seen a steady decline in traffic from 2017 to 2019, indicating a reason to investigate to attempt to find the factors behind this trend.
 
 - Traffic Trends
   - Weekdays see significantly higher traffic compared to weekends.
