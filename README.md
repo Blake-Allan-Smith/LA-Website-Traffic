@@ -11,6 +11,7 @@ Terminology:
 
 # Executive Summary:
 The analysis is based on the LA website dataset containing over 8 million records, providing insights on sessions, devices and their usage, and bounce rates of users from 2014 to 2019. The information found was visualized in a Tableau dashboard and clearly presented key insights on how users access the sight, what devices were used, and the patterns in engagement over time. The analysis highlighted that desktop is the clear favorite for sessions, mobile devices have a high bounce rate, and website traffic peaks during events like the 2017 California wildfires. Additionally, there has been a steady decline in website traffic from 2017 to 2019
+![Tableau Dashboard](Tableau_Dashboard.png)
 
 # Summary of Insights:
 - Device Category Breakdown
