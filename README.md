@@ -48,5 +48,5 @@ The analysis is based on the LA website dataset containing over 8 million record
 - Bounce rate calculations are based on the sessions data available and may not reflect changes in how users interact with specific types of content or site areas not captured in the dataset.
 
 # Technical Project Information
-The original dataset is available here. It contains data for unique visitors, total sessions, and bounce rate for lacity.org, the main website for the City of Los Angeles over the years of 2014-2019. I did some data cleaning and transformation in SQL to create the dataset used in this analysis.
+The original dataset is available [here](https://www.kaggle.com/datasets/cityofLA/lacity.org-website-traffic/data). It contains data for unique visitors, total sessions, and bounce rate for lacity.org, the main website for the City of Los Angeles over the years of 2014-2019. I did some data cleaning and transformation in SQL to create the dataset used in this analysis.
 Check out the LAcity.org Web Traffic - [Tableau Dashboard](https://public.tableau.com/app/profile/blake.smith1551/viz/LAWebsiteTraffic/Dashboard1).
