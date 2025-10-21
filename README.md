@@ -38,7 +38,7 @@ The analysis is based on the LA website dataset containing over 8 million record
 
 - Desktop Improvements/ Focus: Desktop brings in significantly more traffic than any of the other devices resulting in constant sessions. So, it is important to prioritize the performance and compatibility of the website on desktop and the browsers.
 
-- User Survey: To address thew decline in traffic that started in 2017, surveys should be conducted in order to gather information from users on why they are visiting the website less. This will provide cleat insights on areas that can be improved and possibly content that needs to be changed.
+- User Survey: To address thew decline in traffic that started in 2017, surveys should be conducted in order to gather information from users on why they are visiting the website less. This will provide cleat insights on areas that can be improved and possibly content that needs to be changed. 
 
 
 
