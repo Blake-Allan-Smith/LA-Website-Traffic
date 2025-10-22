@@ -2,7 +2,7 @@
 
 This project analyzes data about the web traffic for the lacity.gov website, which contains over 8 million records of prior visitors. The data comes from 2014 to 2019, and the goal of the project is to provide insights on user behavior, highlight trends, and make data-driven recommendations to help enhance user experience and increase performance of the website. The website is a crucial source of information for many residents of the Los Angeles area. As a result, understanding the traffic patterns of the website can help improve user engagement and communication, especially when events such as wildfires or other severe events occur. 
 
-Terminology:
+Terminology: 
 - Sessions: A session is a visit to the website, and all the interactions that occur during that visit. 
 
 - Bounce Rate: The percentage of users who left the website without getting past the home page and or not interacting with the website.
